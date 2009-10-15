@@ -1,0 +1,126 @@
+@import constants
+
+=container
+  :zoom 1
+
+=container_after
+  :clear both
+  :content "."
+  :display block
+  :height 0
+  :overflow hidden
+  :visibility hidden
+
+div.cells
+  +container
+
+  &:after
+    +container_after
+
+  div.cell
+    :float left
+    :margin-right 10px
+
+  div.width_half
+    :width = !cell_width * 0.5 + !cell_margin_right * 0
+
+  div.width_1
+    :width = !cell_width * 1 + !cell_margin_right * 0
+
+  div.width_1_half
+    :width = !cell_width * 1.5 + !cell_margin_right * 0
+
+  div.width_1_three_fourth
+    :width = !cell_width * 1.75 + !cell_margin_right * 0
+
+  div.width_2
+    :width = !cell_width * 2 + !cell_margin_right * 1
+
+  div.width_2_half
+    :width = !cell_width * 2.5 + !cell_margin_right * 1
+
+  div.width_2_three_fourth
+    :width = !cell_width * 2.75 + !cell_margin_right * 1
+
+  div.width_3
+    :width = !cell_width * 3 + !cell_margin_right * 2
+
+  div.width_3_half
+    :width = !cell_width * 3.5 + !cell_margin_right * 2
+
+  div.width_3_three_fourth
+    :width = !cell_width * 3.75 + !cell_margin_right * 2
+
+  div.width_4
+    :width = !cell_width * 4 + !cell_margin_right * 3
+
+  div.width_4_half
+    :width = !cell_width * 4.5 + !cell_margin_right * 3
+
+  div.width_5
+    :width = !cell_width * 5 + !cell_margin_right * 4
+
+  div.width_6
+    :width = !cell_width * 6 + !cell_margin_right * 5
+
+  div.width_7
+    :width = !cell_width * 7 + !cell_margin_right * 6
+
+  div.width_8
+    :width = !cell_width * 8 + !cell_margin_right * 7
+
+  div.width_9
+    :width = !cell_width * 9 + !cell_margin_right * 8
+
+  div.width_10
+    :width = !cell_width * 10 + !cell_margin_right * 9
+
+  div.width_11
+    :width = !cell_width * 11 + !cell_margin_right * 10
+
+  div.width_12
+    :width = !cell_width * 12 + !cell_margin_right * 11
+
+  div.width_13
+    :width = !cell_width * 13 + !cell_margin_right * 12
+
+  div.width_14
+    :width = !cell_width * 14 + !cell_margin_right * 13
+
+  div.width_15
+    :width = !cell_width * 15 + !cell_margin_right * 14
+
+  div.width_16
+    :width = !cell_width * 16 + !cell_margin_right * 15
+
+  div.width_17
+    :width = !cell_width * 17 + !cell_margin_right * 16
+
+  div.width_18
+    :width = !cell_width * 18 + !cell_margin_right * 17
+
+  div.width_19
+    :width = !cell_width * 19 + !cell_margin_right * 18
+
+  div.width_19_half
+    :width = !cell_width * 19.5 + !cell_margin_right * 18.5
+
+  div.width_20
+    :width = !cell_width * 20 + !cell_margin_right * 19
+
+  div.width_21
+    :width = !cell_width * 21 + !cell_margin_right * 20
+
+  div.width_22
+    :width = !cell_width * 22 + !cell_margin_right * 21
+
+  div.width_23
+    :width = !cell_width * 23 + !cell_margin_right * 22
+
+  div.width_24
+    :margin-right 0
+    :width = !cell_width * 24 + !cell_margin_right * 23
+
+  div.width_28
+    :margin-right 0
+    :width = !cell_width * 28 + !cell_margin_right * 27

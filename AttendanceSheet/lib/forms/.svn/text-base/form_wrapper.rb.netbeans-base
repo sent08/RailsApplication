@@ -1,0 +1,57 @@
+module FormWrapper
+  FORM_HELPERS_AND_CSS_CLASSES = {
+    :check_box => 'input_checkbox',
+    :check_box_tag => 'input_checkbox',
+    :collection_select => 'select',
+    :file_field => 'input_file',
+    :file_field_tag => 'input_file',
+    :password_field => 'input_text',
+    :password_field_tag => 'input_text',
+    :radio_button => 'input_radio',
+    :radio_button_tag => 'input_radio',
+    :select => 'select',
+    :select_tag => 'select',
+    :text_area => 'textarea',
+    :text_area_tag => 'textarea',
+    :text_field => 'input_text',
+    :text_field_tag => 'input_text',
+    :time_zone_select => 'select',
+    :country_select => 'select'
+  }
+
+  FORM_HELPERS_AND_CSS_CLASSES.each do |form_helper, css_class|
+    define_method "#{form_helper}_with_form_wrapper" do |*args|
+      form_wrapper css_class, *args do |*args|
+        send "#{form_helper}_without_form_wrapper", *args
+      end
+    end
+  end
+
+  def form_wrapper(css_class, *args, &block)
+    capture_haml do
+      haml_tag :div, :class => css_class do
+        puts yield(*args)
+      end
+    end
+  end
+
+  def file_field_tag(name, options = {})
+    text_field_tag_without_form_wrapper(name, nil, options.update("type" => "file"))
+  end
+
+  def hidden_field_tag(name, value = nil, options = {})
+    text_field_tag_without_form_wrapper(name, value, options.stringify_keys.update("type" => "hidden"))
+  end
+
+  def password_field_tag(name = "password", value = nil, options = {})
+    text_field_tag_without_form_wrapper(name, value, options.update("type" => "password"))
+  end
+end
+
+ActionView::Base.class_eval do
+  include FormWrapper
+
+  FormWrapper::FORM_HELPERS_AND_CSS_CLASSES.keys.each do |form_helper|
+    alias_method_chain form_helper, :form_wrapper
+  end
+end

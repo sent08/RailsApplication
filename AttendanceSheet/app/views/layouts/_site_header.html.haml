@@ -1,0 +1,7 @@
+.title
+  = "ATTENDANCE SHEET"
+.user_links.float_right
+  = " #{current_user.user_name || 'Guest'}, "
+  - if current_user.logged_in?
+    = link_to_remote "Sign Out", :method => :get, :url => {:controller => "employees", :action => :logout}, :html => {:class => 'user_links'}
+.float_left= render :partial => "/layouts/site_menu_navigation"

@@ -1,0 +1,22 @@
+#employees_list{:class => "list_table"}
+  %h3== Employees List
+  %table{:cellspacing => 0}
+    %thead
+      %tr
+        %th= "Id"
+        %th= "Username"
+        %th= "First Name"
+        %th= "Last Name"
+        %th= "Email"
+        %th= "DOJ"
+        %th= "Action"
+      %tbody
+        - @employees.each do |employee|
+          %tr
+            %td= employee.id
+            %td= employee.user_name
+            %td= employee.employee_detail.first_name
+            %td= employee.employee_detail.last_name
+            %td= employee.email
+            %td= employee.employee_detail.doj
+            %td= link_to_remote "Attendance", :update => "body_middle_content", :url => {:controller => "attendances", :action => "index", :employee_id => employee.id}, :method => :get

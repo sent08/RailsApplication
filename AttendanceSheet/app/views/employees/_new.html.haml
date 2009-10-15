@@ -1,0 +1,46 @@
+#message
+%div{:style => "padding:0px 5px 0px 15px; margin-left:20px;"}
+  %h3= "Create Employee"
+  - form_remote_for @employee, :url => {:controller => :employees, :action => :create}, :method => :put do |f|
+    - fields_for :employee_detail, @employee_detail do |ff|
+      .cells
+        .cell.width_4.label
+          = "First Name"
+        .cell.width_10
+          = ff.text_field :first_name, :size => 16
+      .cells
+        .cell.width_4.label
+          = "Last Name"
+        .cell.width_8
+          = ff.text_field :last_name, :size => 16
+    .cells
+      .cell.width_4.label
+        = "Email"
+      .cell.width_8
+        = f.text_field :email, :size => 16
+    .cells
+      .cell.width_4.label
+        = "Role"
+      .cell.width_8
+        = f.collection_select :employee_role_id, @employee_roles, :id, :name
+    .cells
+      .cell.width_4.label
+        = "Password"
+      .cell.width_8
+        = f.password_field :password, :size => "16"
+    .cells
+      .cell.width_4.label
+        = "Confirm Password"
+      .cell.width_8
+        = password_field_tag 'employee[password_confirmation]',"", :size => "16"
+    .cells
+      .cell.width_4.label
+        = "Date Of Joining"
+      .cell.width_8
+        = calendar_date_select_tag "employee_detail[doj]", nil, :year_range => 1.years.ago..5.years.from_now
+
+      .cells
+        .cell.width_13
+          .float_right_new.html.haml
+            = link_to "Cancle", :controller => "employees", :action => "signin"
+            = submit_tag "Create", :class => "small_button"

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/localbooksale/localbooksale/!svn/ver/2/svn/trunk/lib/forms
+END
+form_wrapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/localbooksale/localbooksale/!svn/ver/2/svn/trunk/lib/forms/form_wrapper.rb
+END
+form_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/localbooksale/localbooksale/!svn/ver/2/svn/trunk/lib/forms/form_builder.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/localbooksale/localbooksale/!svn/ver/2/svn/trunk/lib/forms/errors.rb
+END

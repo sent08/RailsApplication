@@ -1,0 +1,11 @@
+%html
+  %head
+    %meta{:charset => 'UTF-8', :content => 'text/html', :http_equiv => 'content-type'}
+    %title= "Attendance Sheet"
+    = render :partial => 'layouts/site_javascript_files_loader'
+    = render :partial => 'layouts/site_stylesheet_files_loader'
+  %body
+    #site_container.body_width
+      .header{:id => "site_header"}= render :partial => "/layouts/site_header"
+      .site_content{:style => "width: auto; height:500px; border: 1px solid #B2CFEF"}= render :partial => "/layouts/site_content", :locals => {:inner_content => inner_content}
+      %div= render :partial => "/layouts/site_footer"

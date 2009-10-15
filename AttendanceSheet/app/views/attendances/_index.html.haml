@@ -1,0 +1,26 @@
+- attendances ||= @attendances
+#container
+  .cells
+  #attendances_list{:class => "list_table"}
+    - if current_user == @employee_user
+      .cells{:style => "margin-bottom:30px;"}
+        .cell.widht_3= link_to_remote "SignIn", :url => {:controller => "attendances", :action => "signin"}, :method => :get, :html => {:class => "small_button"}
+        .cell.widht_3= link_to_remote "SignOut", :url => {:controller => "attendances", :action => "signout"}, :method => :get, :html => {:class => "small_button"}
+    #message{:style => "margin-bottom:10px;"}
+    - unless attendances.blank?
+      %table{:cellspacing => 0}
+        %thead
+          %tr
+            %th= "Date"
+            %th= "In Time"
+            %th= "Out Time"
+            %th= "Type"
+          %tbody
+            - attendances.each do |attendance|
+              %tr
+                %td= attendance.signin_datetime ? attendance.signin_datetime.strftime("%d %b %Y") : "&nbsp;"
+                %td= attendance.signin_datetime ? attendance.signin_datetime.strftime("%H:%M") : "&nbsp;"
+                %td= attendance.signout_datetime ? attendance.signout_datetime.strftime("%H:%M") : "&nbsp;"
+                %td== Automatic
+    - else
+      %div{:style => "color:gray; margin-top:10px;"}= "No entries found."

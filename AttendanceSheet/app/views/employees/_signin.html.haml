@@ -1,0 +1,17 @@
+#signin_panel{:style => "text-align:center; width: 300px; height:160px; border: 3px solid #B2CFEF; margin-left:auto; margin-right:auto; margin-top:100px;"}
+  - remote_form_for :employee, :url => login_employees_path do |f|
+    .message{:id => "login_error"}= "&nbsp;"
+    .panel
+      .panel_header= "LOGIN"
+      .cells.label
+        .cell.width_2
+          = "Username"
+        .cell.width_2
+          = f.text_field :user_name, :value => "", :size => "14"
+      .cells.label
+        .cell.width_2
+          = "Password&nbsp;"
+        .cell.width_2
+          = f.password_field :crypted_password, :value => "", :size => "14"
+      .label
+        = submit_tag "Login", :class => "small_button"

@@ -1,0 +1,11 @@
+role_one:
+  id: 1
+  name: Human Resource
+
+role_two:
+  id: 2
+  name: Software Engineer
+
+role_three:
+  id: 3
+  name: Sr.Software Engineer

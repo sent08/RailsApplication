@@ -1,0 +1,15 @@
+id_1:
+  id: 1
+  employee_id: 1
+  first_name: Senthil
+  last_name: Krishnamoorthy
+  dob: 1981-08-09 20:45:00
+  doj: <%= Time.now.to_s(:db) %>
+
+id_2:
+  id: 2
+  employee_id: 2
+  first_name: Employee
+  last_name: Two
+  dob: 1981-08-09 20:45:00
+  doj: <%= Time.now.to_s(:db) %>

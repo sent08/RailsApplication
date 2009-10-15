@@ -1,0 +1,123 @@
+class FormBuilder < ActionView::Helpers::FormBuilder
+  FORM_HELPERS = [
+    :collection_select,
+    :file_field,
+    :label,
+    :password_field,
+    :select,
+    :text_area,
+    :text_field,
+    :time_zone_select
+  ]
+
+  FORM_HELPERS.each do |form_helper|
+    define_method form_helper do |*args|
+      @template.form_field form_helper, self, *args do |*args|
+        super(*args)
+      end
+    end
+  end
+
+  def calendar_field(*args)
+    options = args.extract_options!
+
+    options.reverse_merge!(
+      :calendar => true
+    )
+
+    args << options
+
+    text_field(*args)
+  end
+end
+
+module FormHelper
+  def form_field(form_helper, f, method, *args, &block)
+    options = args.extract_options!
+
+    name_and_id = options.stringify_keys
+    instance_tag = ActionView::Helpers::InstanceTag.new(f.object_name, method, @template, f.object)
+    instance_tag.send :add_default_name_and_id, name_and_id
+    name_and_id = name_and_id.symbolize_keys.slice(:id, :name)
+
+    options.reverse_merge!(
+      form_field_options = {
+        :calendar => false,
+        :counter => false,
+        :focus => false,
+        :note => nil,
+        :prompt => nil,
+        :required => false,
+        :tooltip => nil
+      }
+    )
+
+    if options[:prompt]
+      options[:onblur] = <<-javascript
+        if($('#{name_and_id[:id]}').value == '') {
+          $('#{name_and_id[:id]}').addClassName('prompt');
+          $('#{name_and_id[:id]}').value = '#{options[:prompt]}';
+        }
+      javascript
+
+      options[:onfocus] = <<-javascript
+        if($('#{name_and_id[:id]}').value == '#{options[:prompt]}') {
+          $('#{name_and_id[:id]}').value = '';
+          $('#{name_and_id[:id]}').removeClassName('prompt');
+        }
+      javascript
+
+      value = options[:value] || f.object[method] || @template.params[f.object_name][method]
+      options[:value] = value.blank? ? options[:prompt] : value
+
+      if options[:value] == options[:prompt]
+        options[:class] = Array(options[:class])
+        options[:class] << 'prompt'
+        options[:class] = css_class(options[:class])
+      end
+    end
+
+    css_classes = [form_helper == :label ? 'form_label' : 'form_field']
+    css_classes << 'disabled' if options[:disabled]
+    css_classes << 'with_tooltip' if options[:tooltip]
+
+    z_index = form_helper.to_s.include?('select') ? cycle(*[(1..99).to_a.reverse, {:name => 'selects'}].flatten) : nil
+
+    args << options.except(*form_field_options.keys)
+
+    haml_tag :div, :class => css_class(css_classes), :style => "z-index: #{z_index};" do
+      puts yield(method, *args)
+      if options[:calendar]
+        puts image_tag('calendar_date_select/calendar.gif', :class => 'calendar_icon link', :onclick => "new CalendarDateSelect($(this).previous(), {year_range:[#{Time.now.year.to_i}, #{Time.now.year.to_i + 5}]});")
+      end
+      if options[:counter]
+        haml_tag :div, :class => 'quiet align_right' do
+          puts text_area_counter(name_and_id[:id], options[:counter].is_a?(Integer) ? options[:counter] : 4000)
+        end
+      end
+      if options[:focus]
+        puts javascript_tag("$('#{name_and_id[:id]}').focus()")
+      end
+      if options[:note]
+        haml_tag :div, :class => 'small quiet' do
+          puts options[:note]
+        end
+      end
+      if options[:required]
+        haml_tag :span, :class => 'required' do
+          puts '*'
+        end
+      end
+      if options[:tooltip]
+        trigger_id = "#{name_and_id[:id]}_tooltip_trigger"
+        puts image_tag('icons/tooltip.png', :class => 'tooltip_icon link', :id => trigger_id)
+        puts tooltip(:tooltip_id => "#{name_and_id[:id]}_tooltip", :trigger_id => trigger_id) {puts options[:tooltip]}
+      end
+    end
+  end
+end
+
+ActionView::Base.class_eval do
+  include FormHelper
+  self.default_form_builder = FormBuilder
+end

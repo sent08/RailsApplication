@@ -1,0 +1,1417 @@
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.4ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.1ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.4ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.6ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.7ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.4ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.2ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 03:50:19', NULL, '2009-10-14 03:50:19', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mAnonymousUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.3ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.2ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.3ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.2ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 03:52:41', NULL, '2009-10-14 03:52:41', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (25.7ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 03:52:41', `email` = 'some@some.com' WHERE `id` = 13[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (18.2ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 13) LIMIT 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (12.7ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.1ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.8ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.4ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.5ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.3ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 03:53:02', NULL, '2009-10-14 03:53:02', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (0.3ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 03:53:02', `email` = 'some@some.com' WHERE `id` = 14[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.2ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 14) LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1memployees_groups Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `employees_groups`[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`employees_groups`.employee_id = 14 ) [0m
+  [4;35;1mEmployee Destroy (0.2ms)[0m   [0mDELETE FROM `employees` WHERE `id` = 14[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.8ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.3ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.2ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 04:12:11', NULL, '2009-10-14 04:12:11', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (0.3ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 04:12:11', `email` = 'some@some.com' WHERE `id` = 15[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.2ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 15) LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1memployees_groups Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `employees_groups`[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`employees_groups`.employee_id = 15 ) [0m
+  [4;35;1mEmployee Destroy (0.2ms)[0m   [0mDELETE FROM `employees` WHERE `id` = 15[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Exists (0.3ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;36;1mEmployee Exists (0.2ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Load (0.2ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` IS NULL) LIMIT 1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.2ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.4ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.4ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.4ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.5ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.3ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 04:12:53', NULL, '2009-10-14 04:12:53', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (0.3ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 04:12:53', `email` = 'some@some.com' WHERE `id` = 16[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 16) LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1memployees_groups Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `employees_groups`[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`employees_groups`.employee_id = 16 ) [0m
+  [4;35;1mEmployee Destroy (0.2ms)[0m   [0mDELETE FROM `employees` WHERE `id` = 16[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;36;1mEmployee Exists (0.2ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Load (0.2ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/employee_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.2ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.3ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.2ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 04:13:01', NULL, '2009-10-14 04:13:01', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (0.3ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 04:13:01', `email` = 'some@some.com' WHERE `id` = 17[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.4ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 17) LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1memployees_groups Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `employees_groups`[0m
+  [4;36;1mGroup Load (0.2ms)[0m   [0;1mSELECT * FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`employees_groups`.employee_id = 17 ) [0m
+  [4;35;1mEmployee Destroy (0.2ms)[0m   [0mDELETE FROM `employees` WHERE `id` = 17[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (8.8ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Exists (0.3ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;36;1mEmployee Exists (0.2ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Load (0.3ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mAttendance Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.4ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:35:32', NULL, '2009-10-14 04:35:32', 1, '2009-10-14 10:05:32', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.5ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:35:32', `signout_datetime` = '2009-10-14 10:05:32' WHERE `id` = 18[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.4ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.4ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 18[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.4ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `attendances`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Create (0.2ms)[0m   [0mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:38:04', NULL, '2009-10-14 04:38:04', 1, '2009-10-14 10:08:04', NULL)[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Update (0.3ms)[0m   [0;1mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:38:04', `signout_datetime` = '2009-10-14 10:08:04' WHERE `id` = 19[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.3ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Destroy (0.2ms)[0m   [0mDELETE FROM `attendances` WHERE `id` = 19[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.0ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (0.9ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:38:27', NULL, '2009-10-14 04:38:27', 1, '2009-10-14 10:08:27', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:38:27', `signout_datetime` = '2009-10-14 10:08:27' WHERE `id` = 20[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.4ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 20[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.2ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (1.5ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:38:57', NULL, '2009-10-14 04:38:57', 1, '2009-10-14 10:08:56', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:38:57', `signout_datetime` = '2009-10-14 10:08:57' WHERE `id` = 21[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 21[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (2.4ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:40:11', NULL, '2009-10-14 04:40:11', 1, '2009-10-14 10:10:11', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:40:11', `signout_datetime` = '2009-10-14 10:10:11' WHERE `id` = 22[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.8ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 22[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (1.5ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (1.3ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:40:43', NULL, '2009-10-14 04:40:43', 1, '2009-10-14 10:10:43', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:40:43', `signout_datetime` = '2009-10-14 10:10:43' WHERE `id` = 23[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 23[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:42:14', NULL, '2009-10-14 04:42:14', 1, '2009-10-14 10:12:14', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.5ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:42:14', `signout_datetime` = '2009-10-14 10:12:14' WHERE `id` = 24[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.4ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.5ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.4ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 24[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.2ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.3ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:42:19', NULL, '2009-10-14 04:42:19', 1, '2009-10-14 10:12:18', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:42:19', `signout_datetime` = '2009-10-14 10:12:19' WHERE `id` = 25[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 25[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (45.5ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.9ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:42:53', NULL, '2009-10-14 04:42:53', 1, '2009-10-14 10:12:53', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:42:53', `signout_datetime` = '2009-10-14 10:12:53' WHERE `id` = 26[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 26[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+/home/localbook/Data/projects/AttendanceSheet/test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/localbook/Data/projects/AttendanceSheet/test/unit/attendance_test.rb:1
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:93:in `require_file'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:109:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `each'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:108:in `add_to_suites'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:66:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `loop'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:59:in `parse_args'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:166:in `run_mediator'
+/usr/local/netbeans-6.5/ruby2/nb_test_mediator.rb:279
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.7ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.5ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (0.6ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.2ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:44:00', NULL, '2009-10-14 04:44:00', 1, '2009-10-14 10:14:00', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:44:00', `signout_datetime` = '2009-10-14 10:14:00' WHERE `id` = 27[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 27[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (2.2ms)[0m   [0;1mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/unit/group_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/functional/employees_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/unit/group_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/functional/employees_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/unit/group_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/functional/employees_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (1.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/unit/group_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/functional/employees_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/unit/group_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.8ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAnonymousUser Columns (0.8ms)[0m   [0;1mSHOW FIELDS FROM `employees`[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mAttendance Columns (1.0ms)[0m   [0mSHOW FIELDS FROM `attendances`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.1ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;36;1mAttendance Create (0.7ms)[0m   [0;1mINSERT INTO `attendances` (`created_at`, `signout_datetime`, `updated_at`, `employee_id`, `signin_datetime`, `attendance_type_id`) VALUES('2009-10-14 04:53:47', NULL, '2009-10-14 04:53:47', 1, '2009-10-14 10:23:47', NULL)[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mAttendance Update (0.3ms)[0m   [0mUPDATE `attendances` SET `updated_at` = '2009-10-14 04:53:47', `signout_datetime` = '2009-10-14 10:23:47' WHERE `id` = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.3ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mAttendance Destroy (0.2ms)[0m   [0;1mDELETE FROM `attendances` WHERE `id` = 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mEmployee Load (0.1ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 1) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Exists (0.4ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mEmployee Create (0.4ms)[0m   [0;1mINSERT INTO `employees` (`salt`, `employee_role_id`, `created_at`, `crypted_password`, `updated_at`, `user_name`, `email`) VALUES(NULL, 2, '2009-10-14 04:53:47', NULL, '2009-10-14 04:53:47', 'emp3', 'somemail@somedomain.com')[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.2ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.2ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;35;1mEmployee Update (0.5ms)[0m   [0mUPDATE `employees` SET `updated_at` = '2009-10-14 04:53:47', `email` = 'some@some.com' WHERE `id` = 3[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 3) LIMIT 1[0m
+  [4;36;1mGroup Load (0.1ms)[0m   [0;1mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;35;1mGroup Exists (0.1ms)[0m   [0mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 1 ) LIMIT 1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1memployees_groups Columns (0.7ms)[0m   [0mSHOW FIELDS FROM `employees_groups`[0m
+  [4;36;1mGroup Load (0.3ms)[0m   [0;1mSELECT * FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`employees_groups`.employee_id = 3 ) [0m
+  [4;35;1mEmployee Destroy (0.2ms)[0m   [0mDELETE FROM `employees` WHERE `id` = 3[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mEmployee Load (0.3ms)[0m   [0mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mEmployee Exists (0.2ms)[0m   [0mSELECT `employees`.id FROM `employees` WHERE (`employees`.`user_name` = BINARY 'emp3') LIMIT 1[0m
+  [4;36;1mEmployee Exists (0.3ms)[0m   [0;1mSELECT `employees`.id FROM `employees` WHERE (`employees`.`email` = BINARY 'somemail@somedomain.com') LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.3ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mEmployee Load (0.2ms)[0m   [0;1mSELECT * FROM `employees` WHERE (`employees`.`id` = 2) LIMIT 1[0m
+  [4;35;1mGroup Load (0.1ms)[0m   [0mSELECT * FROM `groups` WHERE (`groups`.`name` = 'admin') LIMIT 1[0m
+  [4;36;1mGroup Exists (0.1ms)[0m   [0;1mSELECT `groups`.id FROM `groups` INNER JOIN `employees_groups` ON `groups`.id = `employees_groups`.group_id WHERE (`groups`.`id` = 1) AND (`employees_groups`.employee_id = 2 ) LIMIT 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+Unable to load employees_group, underlying cause no such file to load -- employees_group 
+
+ /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:158:in `require'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:265:in `require_or_load'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:224:in `depend_on'
+/usr/lib/ruby/gems/1.8/gems/activesupport-2.3.2/lib/active_support/dependencies.rb:136:in `require_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:850:in `try_to_load_dependency'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:865:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `each'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:862:in `require_fixture_classes'
+/usr/lib/ruby/gems/1.8/gems/activerecord-2.3.2/lib/active_record/fixtures.rb:845:in `fixtures'
+./test/test_helper.rb:35
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+./test/functional/employees_controller_test.rb:1
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `load'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5:in `each'
+/usr/lib/ruby/gems/1.8/gems/rake-0.8.7/lib/rake/rake_test_loader.rb:5
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
